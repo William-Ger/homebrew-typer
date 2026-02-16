@@ -3,8 +3,8 @@ class Typer < Formula
 
   desc "Typing practice in your terminal — like monkeytype for the CLI"
   homepage "https://github.com/William-Ger/typer"
-  url "https://github.com/William-Ger/typer/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "aef92cb0c7697020474db9f5f55dfcc5bbc7269501b756bd636e8744c8383a2f"
+  url "https://github.com/William-Ger/typer/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "9810678ac83d830a5cf7909b9d947e2129411d58d85a67e28c981ca1ea6f9e62"
   license "MIT"
 
   depends_on "python@3.12"
